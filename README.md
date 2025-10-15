@@ -2,9 +2,20 @@
 
 <strong>Piecam</strong> es un programa capaz de poder capturar si existen existe movimiento en una zona de tu casa, ya sea tu cuarto, residencia, o cualquier cuarto, y esto lo hace a traves de un sensor de movimiento con Arduino, y además una alarma que determina si existe movimiento en el lugar, y con ello, saca capturas de pantalla de la camara de tu computadora, guardando las capturas en una carpeta llamada fotos
 
+## Descarga
+
+Debido al tamaño del archivo, este se descarga desde drive, pero no te preocupes, el archivo es seguro y puedes usarlo en tu computadora con normalidad, claro, con todos los los siguientes archivos y carpetas
+
+- carpeta fotos
+- main.png
+
+### Dercarga directa
+
+[Dercarga de piecam.exe](https://drive.google.com/file/d/1JY7IZZSE3ZjKhLAJpHlZu9cGX_WVvJuA/view?usp=drive_link)
+
 ## 💻 Sistema operativo
 
-<p>En caso de quere probar el programa, puedes usar el .exe en Windows 10, esto con el fin de evitar problemas de compatibilidad, pero si quieres usarlo en Linux o otro Sistema, puedes ocupar el archivo <strong>main.py</strong> y probarlo por ti mismo sin el .exe</p>
+En caso de quere probar el programa, puedes usar el .exe en Windows 10, esto con el fin de evitar problemas de compatibilidad, pero si quieres usarlo en Linux o otro Sistema, puedes ocupar el archivo <strong>main.py</strong> y probarlo por ti mismo sin el .exe
 
 ### 💻 Sistemas probados
 
