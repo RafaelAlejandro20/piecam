@@ -1,3 +1,5 @@
+![](https://github.com/RafaelAlejandro20/piecam/blob/8e89cb0cf52e929ca142bc5d16e313c0a9df7ac4/piecam.png)
+
 # Piecam
 
 <strong>Piecam</strong> es un programa capaz de poder capturar si existen existe movimiento en una zona de tu casa, ya sea tu cuarto, residencia, o cualquier cuarto, y esto lo hace a traves de un sensor de movimiento con Arduino, y además una alarma que determina si existe movimiento en el lugar, y con ello, saca capturas de pantalla de la camara de tu computadora, guardando las capturas en una carpeta llamada fotos
