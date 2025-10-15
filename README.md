@@ -6,7 +6,7 @@
 
 ## Descarga
 
-Debido al tamaño del archivo, este se descarga desde drive, pero no te preocupes, el archivo es seguro y puedes usarlo en tu computadora con normalidad, claro, con todos los los siguientes archivos y carpetas
+Debido al tamaño del archivo, este se descarga desde drive, pero no te preocupes, el archivo es seguro y puedes usarlo en tu computadora con normalidad, claro, con todos los los siguientes archivos y carpetas:
 
 - carpeta fotos
 - main.png
@@ -32,7 +32,7 @@ En caso de quere probar el programa, puedes usar el .exe en Windows 10, esto con
 
 ## ❤ Recomendaciones
 
-<p>Si tu interes es conocer el funcionamiento del proyecto, procura tener instalado las siguientes librerías</p>
+Si tu interes es conocer el funcionamiento del proyecto, procura tener instalado las siguientes librerías
 
 ### Customtkinter (Interfaces gráficas moderna)
 
@@ -71,3 +71,11 @@ pip install serial
 ```
 
 ❗ Recuerda tener cuidado al momento de hacer cualquier modificación al código, por tu seguridad y la de tu computadora
+
+❗ Recuerda calibrar tu detector de movimiento en caso se ser necesario
+
+## 📄 Nota
+
+Actualmente el programa tiene ciertas brechas de mejora que se haran en futuro, y las cuales son las siguientes:
+
+- Las fotos no tienen sus colores reales al momento de guardarlas
